@@ -1,14 +1,3 @@
-# WhatsApp-Message-Scheduler-Python-Twilio
-Here is a clean, professional **project description** you can use for your GitHub repository:
-
----
-
-Here is a clean, professional **README.md** for your GitHub repository containing the WhatsApp message scheduler code.
-
-You can copy-paste directly into your repo.
-
----
-
 # 📩 WhatsApp Message Scheduler (Python + Twilio)
 
 This project allows you to **schedule WhatsApp messages** using **Python**, **Twilio API**, and a simple date–time input method.
